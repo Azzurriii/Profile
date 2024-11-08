@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi there! I'm Vo Tuan Thanh </h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vtthanh04/" target = "_blank">
+  <a href="https://www.linkedin.com/in/vtthanh04/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </p>
