@@ -20,7 +20,7 @@ I'm a passionate developer who loves to explore and learn new technologies! 💻
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Azzurriii&theme=ocean_dark&hide_border=false&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Azzurriii&theme=nightowl&hide_border=false" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azzurriii&theme=ocean_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="GitHub Streak" width="48%"/>
 </div>
 
 ## 🏆 GitHub Trophies
